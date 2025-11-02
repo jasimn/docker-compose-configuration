@@ -44,3 +44,25 @@ docker-compose.yaml
 volumes:
   mongo-data:
     name: mongo-lab02-data
+---
+## Access credential
+mongo-express
+url
+```bash
+   http://localhost:8081
+username
+```bash
+   admin
+password
+```bash
+   ExpressSecret123!
+mongodb
+ url
+``` bash
+    mongodb://localhost:27017
+username
+```bash
+   admin
+password
+```bash
+    SuperSecret123!
