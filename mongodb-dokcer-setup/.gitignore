@@ -1,0 +1,23 @@
+# Environment files
+.env
+*.env.local
+
+# MongoDB
+/data/
+/mongodb/backups/*
+!mongodb/backups/.gitkeep
+
+# Logs
+*.log
+logs/
+
+# Docker
+docker-compose.override.yml
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
