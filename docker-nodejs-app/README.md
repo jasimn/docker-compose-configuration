@@ -12,7 +12,7 @@ cd docker-nodejs-app
 ```bash
 docker-compose up -d
 ```
-##3. Access the Application
+## 3. Access the Application
 - Frontend: http://localhost:<port-number>
 
 - Backend API: http://localhost/api
