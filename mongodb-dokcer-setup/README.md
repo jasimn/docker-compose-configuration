@@ -33,7 +33,7 @@ docker-compose up --build -d
  ## 4.access the services:
 *mongo-express:
 ```bash
-express:http://locahost:8081
+http://locahost:8081
 ```
 *mongodb:
 ```bash
