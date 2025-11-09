@@ -14,6 +14,7 @@ git clone https://github.com/jasimn/docker-compose-configuration.git
 cd docker-compose-configuration
 ```
 ```bash
+cd mongodb-dokcer-setup
 chmod +x scripts/init.sh
 ./scripts/init.sh
 ```
