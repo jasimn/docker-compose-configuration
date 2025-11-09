@@ -27,5 +27,15 @@ docker-compose up -d
 - Mongo-Express:
   ```bash
   http://localhost:8081
+  
   ```
+## 4. credentails
+- MongoDB:
+  * username
+    ``` bash
+    admin
+  * password
+    ```bash
+    password123
+    
 
