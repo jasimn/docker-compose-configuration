@@ -59,3 +59,4 @@ app.listen(PORT, async () => {
     console.error('Failed to initialize DB pool:', err);
     process.exit(1);
   }
+});
